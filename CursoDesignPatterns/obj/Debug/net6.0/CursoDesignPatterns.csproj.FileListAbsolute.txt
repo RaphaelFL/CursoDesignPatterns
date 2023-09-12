@@ -1,0 +1,15 @@
+C:\Users\diego\OneDrive\Área de Trabalho\CursoDesignPatterns\bin\Debug\net6.0\CursoDesignPatterns.exe
+C:\Users\diego\OneDrive\Área de Trabalho\CursoDesignPatterns\bin\Debug\net6.0\CursoDesignPatterns.deps.json
+C:\Users\diego\OneDrive\Área de Trabalho\CursoDesignPatterns\bin\Debug\net6.0\CursoDesignPatterns.runtimeconfig.json
+C:\Users\diego\OneDrive\Área de Trabalho\CursoDesignPatterns\bin\Debug\net6.0\CursoDesignPatterns.dll
+C:\Users\diego\OneDrive\Área de Trabalho\CursoDesignPatterns\bin\Debug\net6.0\CursoDesignPatterns.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\CursoDesignPatterns\obj\Debug\net6.0\CursoDesignPatterns.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Área de Trabalho\CursoDesignPatterns\obj\Debug\net6.0\CursoDesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Área de Trabalho\CursoDesignPatterns\obj\Debug\net6.0\CursoDesignPatterns.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\CursoDesignPatterns\obj\Debug\net6.0\CursoDesignPatterns.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Área de Trabalho\CursoDesignPatterns\obj\Debug\net6.0\CursoDesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\CursoDesignPatterns\obj\Debug\net6.0\CursoDesignPatterns.dll
+C:\Users\diego\OneDrive\Área de Trabalho\CursoDesignPatterns\obj\Debug\net6.0\refint\CursoDesignPatterns.dll
+C:\Users\diego\OneDrive\Área de Trabalho\CursoDesignPatterns\obj\Debug\net6.0\CursoDesignPatterns.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\CursoDesignPatterns\obj\Debug\net6.0\CursoDesignPatterns.genruntimeconfig.cache
+C:\Users\diego\OneDrive\Área de Trabalho\CursoDesignPatterns\obj\Debug\net6.0\ref\CursoDesignPatterns.dll
